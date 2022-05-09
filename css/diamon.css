@@ -1,0 +1,9 @@
+.diamond-shape {
+    background: #062238;
+    height: 25px;
+    position: absolute;
+    text-align: center;
+    transform: rotate(-45deg);
+    width:25px;
+  }
+

@@ -1,0 +1,13 @@
+input[type="radio"]{
+    visibility:hidden;
+}
+  label {
+    cursor: pointer;
+  }
+  input:checked + label {
+    background: rgb(236, 14, 14);
+    border: 0;
+    border-radius: 0.25rem;
+    border-radius: 50rem !important;
+  }
+  
